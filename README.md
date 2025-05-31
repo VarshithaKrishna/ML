@@ -16,19 +16,7 @@ Welcome to my project portfolio! Here you'll find a collection of impactful, ind
 
 ## ⚡ Technologies Used
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center"> <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> </a> <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a> <a href="https://developer.mozilla.org/docs/Web/XML" target="_blank"> <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> </a> <a href="https://colab.research.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/> </a> </div>
 
 ---
 
@@ -55,19 +43,6 @@ Automatically classifies animal species from images, enabling scalable wildlife 
   Automated wildlife monitoring, biodiversity research, smart camera traps.
 
 > #DeepLearning #ImageClassification #WildlifeMonitoring #AIForGood
-
----
-
-## 🧮 Basic Calculator (Android)
-
-**Android Studio | Java | Mobile App Development**
-
-A functional calculator app with all arithmetic operations, designed with XML layouts and Java logic for a smooth user experience.
-
-- **Real-time Applications:**  
-  Everyday calculations, educational tools, mobile productivity apps.
-
-> #Android #Java #MobileApp #Calculator
 
 ---
 
@@ -150,17 +125,3 @@ Comprehensive data preprocessing: cleaning, missing value imputation, scaling, s
 
 ---
 
-> Inspired by top portfolio and README templates[1][2][4][6][7].  
-> Add your own screenshots, project GIFs, and links for even more impact!
-
-Citations:
-[1] https://github.com/othneildrew/Best-README-Template
-[2] https://github.com/alexandrerosseto/readme-portfolio-template
-[3] https://www.youtube.com/watch?v=rCt9DatF63I
-[4] https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka
-[5] https://bigpicture.one/blog/project-portfolio-for-beginners/
-[6] https://www.reddit.com/r/learnprogramming/comments/1298ix8/what_does_a_good_readme_look_like_for_personal/
-[7] https://www.stefannibrasil.me/posts/github-readme-examples-and-template/
-
----
-Answer from Perplexity: pplx.ai/share
